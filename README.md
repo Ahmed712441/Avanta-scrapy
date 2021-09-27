@@ -3,7 +3,10 @@
 Scraping all recipes from https://www.avantgardevegan.com/ 
 </br>
 </br>
-Examples for extracted formats
+
+ 
+
+Example for extracted formats
 
 ```
 {
@@ -52,3 +55,6 @@ Type this command to extract all recipes
 ```
 scrapy crawl avanta -o jsonfilename.json
 ```
+</br>
+
+All Extracted recipes on itemm_modified2.json
