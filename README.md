@@ -48,6 +48,7 @@ Examples for extracted formats
 </br>
 </br>
 Type this command to extract all recipes
+
 ```
 scrapy crawl avanta -o jsonfilename.json
 ```
